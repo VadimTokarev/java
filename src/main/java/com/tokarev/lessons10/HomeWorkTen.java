@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class HomeWorkTen {
 
     public static void main(String[] args) {
-        String data = "Hello";
+        String data = "Hello World!";
 
         System.out.println("Work example charAt :");
         for (int i = 0; i < data.length(); i++) {
